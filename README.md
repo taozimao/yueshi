@@ -25,6 +25,8 @@ pip install paddlex -i https://mirror.baidu.com/pypi/simple
 
 基于 food-101 网络开源的数据集，重新分类为两类，一类是糖尿病患者可以吃的食物为一类；另一类是不宜吃的食物。
 
+数据集可以这个[地址下载](https://cowtransfer.com/s/caf3c013a40444)
+
 数据划分权重：
 
 ```
